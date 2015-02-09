@@ -42,7 +42,7 @@
     "test": "grunt"
   },
   "dependencies": {
-    "bower-license": "^0.2.2",
+    "bower-license": "https://github.com/mojoaxel/bower-license.git#892338a37527e61f091395b36e81f15f5ae318a8",
     "colors": "^1.0.3"
   }
 }
